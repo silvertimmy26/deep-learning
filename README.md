@@ -1,4 +1,5 @@
 # Deep Learning Challenge: Alphabet Soup Charity
+# Author: Matthew Adent
 
 This project builds a deep learning binary classification model to help Alphabet Soup identify whether funding applicants are likely to be successful. The model is trained on a dataset of over 34,000 historical applications. The project involves data preprocessing, model training, and multiple optimization attempts using TensorFlow, Keras, and NumPy.
 
